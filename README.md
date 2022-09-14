@@ -2,7 +2,7 @@
 
 
 CarryHelper
-A ypixel Skyblock moddesigned for carriers to speed up and make runs more efficient!
+A hypixel Skyblock mod designed for carriers to speed up and make runs more efficient!
 
 how to use:
 
